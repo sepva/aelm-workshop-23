@@ -26,7 +26,7 @@ jobs:
         run: go build -o ../bin/workshop -v ./...
         working-directory: workshop-service
       - name: Upload /bin folder as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: workshop
           path: bin/
