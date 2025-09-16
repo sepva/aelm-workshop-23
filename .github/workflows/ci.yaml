@@ -8,8 +8,8 @@ on:
 
 # These variables can be reused in the build steps
 env:
-  DOCKER_REPOSITORY: sepva/aelm-workshop
-  DOCKER_IMAGE: aelm-workshop-23
+  DOCKER_REPOSITORY: sepva
+  DOCKER_IMAGE: aelm-workshop
   GOLANG_VERSION: 1.21.x
 
 jobs:
