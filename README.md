@@ -1,6 +1,6 @@
 # Introduction
 
-Hi everybody and welcome to the ALM Workshop of 2023!
+Hi everybody and welcome to the ALM Workshop of 2023!!
 
 Goals:
 * Learn new technologies
